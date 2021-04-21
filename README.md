@@ -1,3 +1,3 @@
 ## Example of BlackJack Game
 
-<img src='BlackJack_Game.mp4'>
+<img src='https://github.com/0mnadren/blackjack_python_game/blob/main/BlackJack_Game.mp4'>
