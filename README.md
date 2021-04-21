@@ -1,3 +1,3 @@
 ## Example of BlackJack Game
 
-<video src='BlackJack_Game.mp4'></video>
+<img src='BlackJack_Game.mp4'>
